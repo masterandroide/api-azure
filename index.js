@@ -12,7 +12,7 @@ app.get('/', function (req, res) {
   });
 
 
-app.listen(3000, () => {
- console.log("El servidor está inicializado en el puerto 3000");
+app.listen(port, () => {
+ console.log(`El servidor está inicializado en el puerto ${port}`);
 });
 
