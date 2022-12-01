@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1d81d8f3-225e-4197-901a-62ad29a26b76/AppServices/subscriptions/1d81d8f3-225e-4197-901a-62ad29a26b76/resourceGroups/azbrazilgilfonssbxrg/providers/Microsoft.Web/sites/fonprimetest",
+    "appService.deploySubpath": "."
+}
