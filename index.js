@@ -1,5 +1,5 @@
 
-const port = process.env.PORT || 4000;
+const port = process.env.PORT || 80;
 const dev = process.env.NODE_ENV !== "production";
 
 
